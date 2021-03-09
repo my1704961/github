@@ -15,6 +15,7 @@
         <link rel="stylesheet" type="text/css" href="<c:url value="/resources/styles/cart_responsive.css"/>"/>
     </head>
     <body>
+<<<<<<< HEAD
         <jsp:include page="include/menu1.jsp" />
 
         <div class="home">
@@ -171,5 +172,8 @@
 <script src="<c:url value="/resources/plugins/parallax-js-master/parallax.min.js"/>"></script>
         <script src="<c:url value="/resources/js/cart.js"/>"></script>
         <jsp:include page="include/js-page.jsp" />
+=======
+      
+>>>>>>> c38c236f503e92ca1d9c0175949cac35bc31bd86
     </body>
 </html>
